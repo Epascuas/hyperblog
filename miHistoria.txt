@@ -5,3 +5,5 @@ Mi nombre es Emmanuel Ricardo Pascuas Ortiz.
 Vivo en San Cristóbal, Táchira, Venezuela.
 
 Soy Ingeniero Industrial egresado de la UNET, 
+
+Estoy estudiando programación.
